@@ -1,0 +1,10 @@
+.container {
+  margin-top: 5em;
+}
+	  h1.ui.center.header {
+    margin-top: 3em;
+  }
+
+  td.in-progress {
+  	background-color: #fff1c8;
+  }
